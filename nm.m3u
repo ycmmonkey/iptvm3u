@@ -30,7 +30,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png"group-title="",CCTV中国中央电视台-14 少儿
 http://223.110.247.161:6610/cntv/live1/cctv-14/cctv-14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="",CCTV中国中央电视台-15 音乐
-http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="17" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" group-title="",浙江卫视
 http://120.221.5.113:8089/PLTV/88888888/224/3221225585/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="",江苏卫视
@@ -42,17 +42,17 @@ http://39.134.156.12/PLTV/88888888/224/3221225654/.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/189px-Dragon_Television_%28China%29_logo.svg.png" group-title="",东方卫视高清
 http://117.148.187.37/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="",北京卫视高清
-http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
+http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225839/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d8/GRT_Satellite_Channel_2016_logo.jpg/400px-GRT_Satellite_Channel_2016_logo.jpg" group-title="",广东卫视高清
-http://112.50.243.8/PLTV/88888888/224/3221225942/3.m3u8
+http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225597/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="24" tvg-name="深圳卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png" group-title="",深圳卫视高清
-http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
+http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225598/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="25" tvg-name="天津卫视" tvg-language="Chinese" tvg-logo="http://www-x-ijizhi-x-com.img.abc188.com/img/UploadFile/201112515747511.jpg" group-title="",天津卫视高清
-http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
+http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225698/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="26" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="",山东卫视高清
-http://112.50.243.8/PLTV/88888888/224/3221225943/3.m3u8
+http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225697/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="27" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="",黑龙江卫视高清
-http://112.50.243.8/PLTV/88888888/224/3221225940/3.m3u8
+http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225736/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="28" tvg-name="厦门卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/Xiamen_Star_Logo.png/330px-Xiamen_Star_Logo.png" group-title="",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/SETV_fujian.jpg" group-title="",东南卫视高清
@@ -73,7 +73,7 @@ http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="" tvg-language="Chinese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2nZFmiK6nSBk3KpdXtrrZeqS9anx1itiuRQ&usqp=CAU" group-title="",五星体育
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93#/media/File:SMGDFYS.JPG" group-title="",东方影视
+#EXTINF:-1 tvg-id="38" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/SMGDFYS.JPG" group-title="",东方影视
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
