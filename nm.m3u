@@ -56,7 +56,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225940/3.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="厦门卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/Xiamen_Star_Logo.png/330px-Xiamen_Star_Logo.png" group-title="",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="东南卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/SETV_fujian.jpg" group-title="",东南卫视高清
-http://117.169.120.140:8080/live/dongnanstv/.m3u8
+http://120.221.44.101:8089/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="" tvg-language="Chinese" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/53/32/33/5332336a-67cb-9f91-0e38-d9b43071133e/source/256x256bb.jpg" group-title="",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="" tvg-language="Chinese" tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="",纯享4K
