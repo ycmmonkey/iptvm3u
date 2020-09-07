@@ -34,11 +34,11 @@ http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" group-title="",浙江卫视
 http://120.221.5.113:8089/PLTV/88888888/224/3221225585/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="",江苏卫视
-http://117.148.187.37/PLTV/88888888/224/3221226140/index.m3u8
+http://39.134.156.15/PLTV/88888888/224/3221225586/.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="",湖南卫视
-http://117.148.187.37/PLTV/88888888/224/3221226162/index.m3u8
+http://39.134.156.12/PLTV/88888888/224/3221225555/.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="",安徽卫视高清
-http://125.210.152.10:8060/live/AHWSHD_H265.m3u8
+http://39.134.156.12/PLTV/88888888/224/3221225654/.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="东方卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/189px-Dragon_Television_%28China%29_logo.svg.png" group-title="",东方卫视高清
 http://117.148.187.37/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" group-title="",北京卫视高清
@@ -59,3 +59,19 @@ http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
 http://117.169.120.140:8080/live/dongnanstv/.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="" tvg-language="Chinese" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/53/32/33/5332336a-67cb-9f91-0e38-d9b43071133e/source/256x256bb.jpg" group-title="",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="" tvg-language="Chinese" tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="",纯享4K
+http://39.134.156.15/PLTV/88888888/224/3221225670/.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.xinhuanet.com//zgjx/2019-05/28/138093127_15589232919021n.png" group-title="",CCTV4K
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/CCTV-17_Logo.png" group-title="",CCTV中国中央电视台-3 农业农村
+http://39.134.156.12/PLTV/88888888/224/3221225675/.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="",凤凰卫视香港台
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" group-title="",凤凰卫视
+http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/59/STVlogo.png" group-title="",上海新闻综合
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="" tvg-language="Chinese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2nZFmiK6nSBk3KpdXtrrZeqS9anx1itiuRQ&usqp=CAU" group-title="",五星体育
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93#/media/File:SMGDFYS.JPG" group-title="",东方影视
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
