@@ -18,7 +18,7 @@ http://223.110.247.161:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="",CCTV中国中央电视台-8 电视剧
 http://223.110.247.161:6610/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="",CCTV中国中央电视台-9 纪录
-http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
+http://120.221.5.113:8089/PLTV/88888888/224/3221225759/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="",CCTV中国中央电视台-10 科教
 http://117.148.187.37/PLTV/88888888/224/3221226199/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="",CCTV中国中央电视台-11 戏曲
