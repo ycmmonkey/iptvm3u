@@ -73,5 +73,13 @@ http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="" tvg-language="Chinese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2nZFmiK6nSBk3KpdXtrrZeqS9anx1itiuRQ&usqp=CAU" group-title="",五星体育
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93#/media/File:SMGDFYS.JPG" group-title="",东方影视
+#EXTINF:-1 tvg-id="38" tvg-name="" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93#/media/File:SMGDFYS.JPG" group-title="",东方影视
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P40Z954370-L.jpg" group-title="",求索纪录
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ414450.jpg" group-title="",求索生活
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="",求索科技
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",求索动物
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
