@@ -81,3 +81,17 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",求索动物
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",浙江钱江频道
+http://125.210.152.21:9120/live/QJPD.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",浙江经视
+http://125.210.152.21:9120/live/ZJJS.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",浙江教育科技
+http://125.210.152.21:9120/live/ZJJYKJ.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",浙江影视娱乐
+http://125.210.152.21:9120/live/ZJYSYL.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",浙江民生休闲
+http://125.210.152.21:9120/live/ZJMS.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",浙江公共新闻
+http://125.210.152.21:9120/live/ZJGG.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",浙江少儿
+http://125.210.152.21:9120/live/ZJSE.m3u8
