@@ -32,9 +32,9 @@ http://223.110.247.161:6610/cntv/live1/cctv-14/cctv-14
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="",CCTV中国中央电视台-15 音乐
 http://jxgz1.jilu8.cn/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="17" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" group-title="",浙江卫视
-http://223.110.243.146/ott.js.chinamobile.com/PLTV/3/224/3221227692/index.m3u8
+http://211.137.115.110:8080/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="",江苏卫视
-http://39.134.156.15/PLTV/88888888/224/3221225586/.m3u8
+http://211.137.115.110:8080/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="",湖南卫视
 http://223.110.243.146/ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="",安徽卫视高清
