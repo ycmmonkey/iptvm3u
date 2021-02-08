@@ -51,8 +51,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="山东卫视" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="",山东卫视高清
 http://39.134.66.66/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="黑龙江卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="",黑龙江卫视高清
-http://39.135.38.13/PLTV/88888888/224/3221226452/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="百事4K" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="",百事4K
+http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="" tvg-language="Chinese" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/53/32/33/5332336a-67cb-9f91-0e38-d9b43071133e/source/256x256bb.jpg" group-title="",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="" tvg-language="Chinese" tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="",纯享4K
@@ -62,11 +62,11 @@ http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/CCTV-17_Logo.png" group-title="",CCTV中国中央电视台-3 农业农村
 http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="",凤凰卫视香港台
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" group-title="",凤凰卫视
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/59/STVlogo.png" group-title="",上海新闻综合
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
+http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="" tvg-language="Chinese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2nZFmiK6nSBk3KpdXtrrZeqS9anx1itiuRQ&usqp=CAU" group-title="",五星体育
 http://39.134.39.37/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/SMGDFYS.JPG" group-title="",东方影视
