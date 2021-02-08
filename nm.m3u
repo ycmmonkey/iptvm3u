@@ -81,8 +81,6 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="4100" tvg-name="" tvg-language="Chinese" tvg-logo="https://seeklogo.com/images/1/4k-logo-37F35FB07C-seeklogo.com.png" group-title="",纯享4K
 http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?
-#EXTINF:-1 tvg-id="4200" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="",凤凰卫视香港台
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" group-title="",凤凰卫视资讯
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="4400" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/360px-Phoenix_Chinese.svg.png" group-title="",凤凰卫视
