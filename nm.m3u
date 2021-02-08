@@ -94,6 +94,6 @@ http://117.148.187.46/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-id="4800" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ414450.jpg" group-title="",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="4900" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z2022254080-L.jpg" group-title="",求索科技
-http://112.17.40.200/hwltc.tv.cd ... /01.m3u8?fmt=ts2hls
+http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="5000" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZZ233615.jpg" group-title="",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
