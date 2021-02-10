@@ -6,7 +6,7 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
 #EXTINF:-1 tvg-id="300" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="",CCTV中国中央电视台-3 综艺
 http://117.169.120.140:8080/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-id="400" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="",CCTV中国中央电视台-4 中文国际
-http://211.137.115.110:8080/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
+http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
 #EXTINF:-1 tvg-id="500" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="",CCTV中国中央电视台-5 体育
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="600" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="",CCTV中国中央电视台-5+ 体育赛事
@@ -14,13 +14,13 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?
 #EXTINF:-1 tvg-id="700" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="",CCTV中国中央电视台-6 电影
 http://117.169.120.140:8080/live/cctv-6/1.m3u8
 #EXTINF:-1 tvg-id="800" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="",CCTV中国中央电视台-7 国防军事
-http://211.137.115.110:8080/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
+http://111.12.102.68:6610/PLTV/77777777/224/3221225627/index.m3u8?
 #EXTINF:-1 tvg-id="900" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="",CCTV中国中央电视台-8 电视剧
 http://117.169.120.140:8080/live/cctv-8/1.m3u8
 #EXTINF:-1 tvg-id="1000" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="",CCTV中国中央电视台-9 纪录
-http://211.137.115.110:8080/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
+http://111.12.102.68:6610/PLTV/77777777/224/3221225633/index.m3u8?
 #EXTINF:-1 tvg-id="1100" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="",CCTV中国中央电视台-10 科教
-http://211.137.115.110:8080/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
+http://111.12.102.68:6610/PLTV/77777777/224/3221225624/index.m3u8?
 #EXTINF:-1 tvg-id="1200" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="",CCTV中国中央电视台-11 戏曲
 http://117.169.120.140:8080/live/cctv-11/.m3u8
 #EXTINF:-1 tvg-id="1300" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="",CCTV中国中央电视台-12 社会与法制
@@ -32,13 +32,13 @@ http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
 #EXTINF:-1 tvg-id="1600" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="",CCTV中国中央电视台-15 音乐
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="1700" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/CCTV-17_Logo.png" group-title="",CCTV中国中央电视台-3 农业农村
-http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+http://111.12.102.68:6610/PLTV/77777777/224/3221225627/index.m3u8?
 #EXTINF:-1 tvg-id="1800" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.xinhuanet.com//zgjx/2019-05/28/138093127_15589232919021n.png" group-title="",CCTV4K
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="1900" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" group-title="",浙江卫视
-http://211.137.115.110:8080/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
+http://111.12.102.68:6610/PLTV/77777777/224/3221225695/index.m3u8?
 #EXTINF:-1 tvg-id="2000" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="",江苏卫视
-http://211.137.115.110:8080/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-id="2100" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="",湖南卫视
 http://223.110.243.146/ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
 #EXTINF:-1 tvg-id="2200" tvg-name="安徽卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="",安徽卫视高清
