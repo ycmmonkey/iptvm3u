@@ -31,6 +31,8 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/ind
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1600" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央电视台",CCTV中国中央电视台-15 音乐
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1601" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视台",CCTV中国中央电视台-16 奥运
+http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
 #EXTINF:-1 tvg-id="1700" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央电视台",CCTV中国中央电视台-17 农业农村
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1900" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
@@ -95,6 +97,8 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾电视",寰宇新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1 tvg-id="4300" tvg-name="壹新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾电视",壹新闻
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港电视",凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-id="4400" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港电视",凤凰卫视资讯台
@@ -102,7 +106,9 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-id="4400" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港电视",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-id="4400" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港电视",翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:-1 tvg-id="4400" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="香港电视",明珠台
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-id="4400" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港电视",有线新闻
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="4500" tvg-name="NHK华语卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" group-title="其他",NHK华语卫视
