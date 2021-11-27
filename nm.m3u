@@ -79,8 +79,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="纬来体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾电视",纬来体育
 rtmp://59.124.75.138/sat/tv721
-#EXTINF:-1 tvg-id="4300" tvg-name="纬来综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾电视",纬来综合
-rtmp://45.88.148.114/channel/60c312b7961593122ebaf8f1?sign=X36LZn%2FOPDCLklIrzW%2BkDBrpD1o9bAVXLBpa6S4x7n0%3D
 #EXTINF:-1 tvg-id="4300" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾电视",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="东森新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾电视",东森新闻
