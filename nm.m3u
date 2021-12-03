@@ -20,21 +20,21 @@ http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
 #EXTINF:-1 tvg-id="1000" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中央电视台",CCTV中国中央电视台-9 纪录
 http://ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
 #EXTINF:-1 tvg-id="1100" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中央电视台",CCTV中国中央电视台-10 科教
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
 #EXTINF:-1 tvg-id="1200" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中央电视台",CCTV中国中央电视台-11 戏曲
 http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1 tvg-id="1300" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中央电视台",CCTV中国中央电视台-12 社会与法制
 http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
 #EXTINF:-1 tvg-id="1400" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央电视台",CCTV中国中央电视台-13 新闻
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227387/index.m3u8
 #EXTINF:-1 tvg-id="1500" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中央电视台",CCTV中国中央电视台-14 少儿
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
+http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227201/index.m3u8
 #EXTINF:-1 tvg-id="1600" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央电视台",CCTV中国中央电视台-15 音乐
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
 #EXTINF:-1 tvg-id="1601" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央电视台",CCTV中国中央电视台-16 奥运
 http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
 #EXTINF:-1 tvg-id="1700" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央电视台",CCTV中国中央电视台-17 农业农村
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+http://223.110.243.150/ott.js.chinamobile.com/PLTV/3/224/3221227592/index.m3u8
 #EXTINF:-1 tvg-id="1900" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
 http://ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
 #EXTINF:-1 tvg-id="2000" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方卫视",江苏卫视
