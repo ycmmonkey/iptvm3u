@@ -4,7 +4,7 @@ http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="200" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中央电视台",CCTV中国中央电视台-2 财经
 http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
 #EXTINF:-1 tvg-id="300" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中央电视台",CCTV中国中央电视台-3 综艺
-http://117.148.179.37/PLTV/88888888/224/3221229878/index.m3u8
+http://ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
 #EXTINF:-1 tvg-id="400" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中央电视台",CCTV中国中央电视台-4 中文国际
 http://ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
 #EXTINF:-1 tvg-id="500" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央电视台",CCTV中国中央电视台-5 体育
@@ -95,8 +95,6 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="华视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾电视",华视新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
-#EXTINF:-1 tvg-id="4300" tvg-name="TVBS 新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台湾电视",TVBS 新闻台
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾电视",寰宇新闻
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="壹新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾电视",壹新闻
