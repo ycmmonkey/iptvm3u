@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="100" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央电视台",CCTV中国中央电视台-1 综合
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
 #EXTINF:-1 tvg-id="200" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中央电视台",CCTV中国中央电视台-2 财经
-http://hiradio.win/aishang.php?id=cctv2hd
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
 #EXTINF:-1 tvg-id="300" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中央电视台",CCTV中国中央电视台-3 综艺
 http://hiradio.win/aishang.php?id=cctv3hd
 #EXTINF:-1 tvg-id="400" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中央电视台",CCTV中国中央电视台-4 中文国际
@@ -100,8 +100,8 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="壹新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾电视",壹新闻
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="4300" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港电视",凤凰中文
-http://iptv.tvfix.org/hls/fhzw.m3u8
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 #EXTINF:-1 tvg-id="4400" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港电视",凤凰卫视资讯台
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="4500" tvg-name="NHK华语卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg" group-title="其他",NHK华语卫视
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
