@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="100" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央电视台",CCTV中国中央电视台-1 综合
-http://hiradio.win/aishang.php?id=cctv1hd
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
 #EXTINF:-1 tvg-id="200" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中央电视台",CCTV中国中央电视台-2 财经
 http://hiradio.win/aishang.php?id=cctv2hd
 #EXTINF:-1 tvg-id="300" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中央电视台",CCTV中国中央电视台-3 综艺
